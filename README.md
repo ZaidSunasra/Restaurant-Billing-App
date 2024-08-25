@@ -21,12 +21,9 @@ A powerful and user-friendly desktop application designed for restaurant billing
 ## Installation
 
 1. **Run the Installer:**
-   - Follow the prompts in the installer to complete the setup.
-
-## Usage
-Watch the app in action:
-
-[![Watch the video](assets/app-demo.mp4)]
+   - Download the installer from website or release section.
+   - After download just click on the installer.
+   - After successful  installation app shortcut will be created on desktop.
 
 
 ## Contact
